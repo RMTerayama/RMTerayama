@@ -9,8 +9,8 @@
  <div>
 <div align="center">
   <a href="https://github.com/RMTerayama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   
@@ -19,9 +19,9 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Masa-HTML5" height="30" width="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Masa-CSS3" height="30" width="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Masa-C" height="30" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Masa-Java" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Masa-CSS3" height="30" width="45"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Masa-C" height="30" width="45"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Masa-Java" height="30" width="45"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
  </div>
   
