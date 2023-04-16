@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando no Depto de TI da prefeitura de Três Lagoas-MS
 - 🌱 Atualmente estudando a linguagem Java
-- 💬 Conhecimentos basicos em C, Java,HTML5 e CSS3.
+- 💬 Conhecimentos em C, Java,HTML5, CSS3 e PHP.
 - 👾 Realizando Bacharelado em Sistemas de Informação na UFMS/cptl.
 ##
 
