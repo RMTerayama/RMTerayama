@@ -45,6 +45,22 @@
 
 ---
 
+### 🎓 Certificações
+
+<div align="center">
+  <a href="link-da-certificacao-1" target="_blank">
+    <img src="link-da-imagem-da-certificacao-1" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a>
+  <a href="link-da-certificacao-2" target="_blank">
+    <img src="link-da-imagem-da-certificacao-2" alt="Certificação 2" height="100" style="margin: 10px;">
+  </a>
+  <a href="link-da-certificacao-3" target="_blank">
+    <img src="link-da-imagem-da-certificacao-3" alt="Certificação 3" height="100" style="margin: 10px;">
+  </a>
+</div>
+
+---
+
 ### 🌐 Redes Sociais
 
 <div align="center"> 
