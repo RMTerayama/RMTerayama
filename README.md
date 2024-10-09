@@ -65,5 +65,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/RMTerayama/RMTerayama/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://github.com/RMTerayama/RMTerayama/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </div>
