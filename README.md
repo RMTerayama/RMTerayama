@@ -1,12 +1,14 @@
-### Olá! Eu sou o Richard Masayuki 👋
+# Olá! Eu sou o Richard Masayuki 👋
 
 ---
 
-- 🔭 **Atualmente:** Trabalhando no Depto de TI da Prefeitura de Três Lagoas-MS;
-- 🌱 **Estudando:** Linguagem Java;
-- 💬 **Tenho experiência em:** C, Java, HTML5, CSS3, React, PHP e MySQL;
-- 👾 **Cursando:** Análise e Desenvolvimento de Sistemas (Unicesumar);
-  
+### Sobre Mim
+
+- 🔭 **Atualmente:** Trabalhando no Depto de TI da Prefeitura de Três Lagoas-MS
+- 🌱 **Estudando:** Linguagem Java
+- 💬 **Experiência em:** C, Java, HTML5, CSS3, React, PHP e MySQL
+- 👾 **Cursando:** Análise e Desenvolvimento de Sistemas (Unicesumar)
+
 ---
 
 <div align="center">
@@ -18,7 +20,7 @@
 
 ---
 
-### ⚡ Tecnologias:
+### ⚡ Tecnologias
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,23 +34,18 @@
 
 ---
 
-### 🚀 Skills:
+### 🚀 Skills
 
-- **HTML5:** 
-  - `█████████████████████ 90%`
-  
-- **CSS3:** 
-  - `████████████████████ 85%`
-
-- **Java:** 
-  - `█████████████████ 70%`
-
-- **React:** 
-  - `███████████████ 65%`
+<div align="left">
+  <p><strong>HTML5:</strong> <code>█████████████████████ 90%</code></p>
+  <p><strong>CSS3:</strong> <code>████████████████████ 85%</code></p>
+  <p><strong>Java:</strong> <code>█████████████████ 70%</code></p>
+  <p><strong>React:</strong> <code>███████████████ 65%</code></p>
+</div>
 
 ---
 
-### 🌐 Redes Sociais:
+### 🌐 Redes Sociais
 
 <div align="center"> 
   <a href="https://instagram.com/rmasayuki" target="_blank">
@@ -63,5 +60,3 @@
 </div>
 
 ---
-
-
