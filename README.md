@@ -46,17 +46,54 @@
 ---
 
 ### 🎓 Certificações
+<div align="center" style="display:flex;">
+  
+<div style="display:flex; flex-direction:column;">
+  <a href="https://hermes.dio.me/certificates/cover/HN6YO3GZ.jpg" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/HN6YO3GZ.jpg" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a> 
+  <p>Criando Projetos React</p>
+</div>
+<div style="display:flex; flex-direction:column;">
+  <a href="https://hermes.dio.me/certificates/cover/NZRAOH8V.jpg" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/NZRAOH8V.jpg" alt="Certificação 2" height="100" style="margin: 10px;">
+  </a> 
+  <p>Projetos ágeis com SCRUM</p>
+</div>
 
-<div align="center">
-  <a href="link-da-certificacao-1" target="_blank">
-    <img src="link-da-imagem-da-certificacao-1" alt="Certificação 1" height="100" style="margin: 10px;">
-  </a>
-  <a href="link-da-certificacao-2" target="_blank">
-    <img src="link-da-imagem-da-certificacao-2" alt="Certificação 2" height="100" style="margin: 10px;">
-  </a>
-  <a href="link-da-certificacao-3" target="_blank">
-    <img src="link-da-imagem-da-certificacao-3" alt="Certificação 3" height="100" style="margin: 10px;">
-  </a>
+<div style="display:flex; flex-direction:column;">
+  <a href="https://hermes.dio.me/certificates/cover/FA1SC0U6.jpg" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/FA1SC0U6.jpg" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a> 
+  <p>Configuração de Ambiente React</p>
+</div>
+
+
+<div style="display:flex; flex-direction:column;">
+  <a href="https://hermes.dio.me/certificates/cover/FXD0EIRO.jpg" target="_blank">
+    <img src="https://hermes.dio.me/certificates/cover/FXD0EIRO.jpg" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a> 
+  <p>Fundamentos do React</p>
+</div>
+<div style="display:flex; flex-direction:column;">
+  <a href="https://cursos.alura.com.br/user/rmterayama-2000/degree-html-css-v534235-534235/certificate" target="_blank">
+    <img src="https://github.com/RMTerayama/RMTerayama/blob/main/html%20e%20css%20em%20projetos%20web.png" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a> 
+  <p>HTML e CSS em projetos Web</p>
+</div>
+
+
+<div style="display:flex; flex-direction:column;">
+  <a href="https://hermes.dio.me/certificates/cover/HN6YO3GZ.jpg" target="_blank">
+    <img src="https://github.com/RMTerayama/RMTerayama/blob/main/LGPD%20conhecendo%20e%20entendendo%20seus%20impactos.png" alt="Certificação 1" height="100" style="margin: 10px;">
+  </a> 
+  <p>LGPD: conhecendo e entendendo seus impactos</p>
+</div>
+
+
+
+
+  
 </div>
 
 ---
