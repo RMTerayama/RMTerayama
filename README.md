@@ -41,7 +41,7 @@
   <p><strong>CSS3:</strong>  <code>████████████████████ 85%</code></p>
   <p><strong>Java:</strong>  <code>█████████████████ 70%</code></p>
   <p><strong>C:</strong>     <code>███████████ 55%</code></p>
-  <p><strong>React:</strong> <code>████████ 45%</code></p>
+  <p><strong>React:</strong> <code>█████ 30%</code></p>
 </div>
 
 
