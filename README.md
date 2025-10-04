@@ -40,7 +40,7 @@
   <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <!-- NestJS com fallback -->
   <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" type="image/svg+xml" />
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" type="image/svg+xml" />
     <img alt="NestJS" height="40" src="https://cdn.simpleicons.org/nestjs/E0234E" />
   </picture>
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
