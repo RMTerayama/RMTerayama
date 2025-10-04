@@ -1,7 +1,7 @@
 <!-- HERO -->
 <h1 align="center">Olá, eu sou o Richard Masayuki 👋</h1>
 <p align="center">
-  Gestor de Desenvolvimento • Full-Stack (React + NestJS) • DevOps pragmático
+  Full-Stack (React + NestJS) • DevOps pragmático • Foco em desempenho e confiabilidade
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 
 ## Sobre mim
 
-- 🏛️ **Hoje:** gestor de equipe no DTI da **Prefeitura de Três Lagoas-MS**  
+- 🏛️ **Hoje:** desenvolvimento full-stack no DTI da **Prefeitura de Três Lagoas-MS**  
 - 🧩 **Stack de trabalho:** React, TypeScript, NestJS, PostgreSQL, Docker, Nginx  
-- 🌱 **Estudando agora:** arquitetura limpa, observabilidade e automação CI/CD  
+- 🌱 **Estudando agora:** arquitetura limpa, observabilidade, automação de CI/CD  
 - 💬 **Experiência com:** C, HTML5, CSS3, React, PHP, MySQL  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Unicesumar)  
-- 🎯 **Interesses:** SaaS multi-tenant, UX acessível, performance e segurança
+- 🎯 **Interesses:** SaaS multi-tenant, UX acessível, segurança e performance
 
 ---
 
@@ -38,9 +38,11 @@
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img  alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-            
+  <!-- NestJS com fallback confiável -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" type="image/svg+xml" />
+    <img alt="NestJS" height="40" src="https://cdn.simpleicons.org/nestjs/E0234E" />
+  </picture>
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -53,11 +55,12 @@
 
 ## Destaques
 
-- 🧭 **Liderança técnica:** squad de 5 devs, rituais, PR reviews e releases contínuas  
-- 🧱 **Arquitetura:** monorepo, DTOs, contratos estáveis e camadas bem definidas  
-- 📦 **DevOps:** CI/CD container-first, reverse proxy, logs e métricas organizados  
-- 🧪 **Qualidade:** testes de integração/E2E e automação de validações  
-- 👨‍💻 **Setor público:** UX acessível, performance e confiabilidade para servidores
+- 🔗 **Do zero ao deploy:** API REST/GraphQL, autenticação por papéis, geração de PDFs e integrações
+- 🧱 **Arquitetura sólida:** camadas bem definidas, DTOs/contratos estáveis, monorepo quando convém
+- 🛡️ **Segurança:** hardening básico, rate-limit, headers, revisão de permissões e auditoria de eventos
+- 📈 **Observabilidade:** logs estruturados, métricas e traços para troubleshooting rápido
+- 🧪 **Qualidade:** testes de integração/E2E e automação de validações em pipelines
+- 🧑‍💻 **Setor público:** UX acessível, performance e confiabilidade para alto volume de atendimentos
 
 ---
 
@@ -96,8 +99,9 @@
 ## Como posso ajudar sua equipe
 
 - 🚀 Tirar projeto do papel com entregas curtas e previsíveis  
-- 🧭 Definir arquitetura e guiar padrões em squads enxutas  
+- 🧭 Definir arquitetura e padrões que facilitem manutenção e escala  
 - ⚙️ Subir infra conteinerizada, observável e com deploy simples  
+
 ---
 
 ## Contato
