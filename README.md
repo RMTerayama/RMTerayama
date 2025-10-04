@@ -1,7 +1,7 @@
-<!-- Hero -->
+<!-- HERO -->
 <h1 align="center">Olá, eu sou o Richard Masayuki 👋</h1>
 <p align="center">
-  Gestor de Desenvolvimento | Full-Stack (React + NestJS) | DevOps pragmático
+  Gestor de Desenvolvimento • Full-Stack (React + NestJS) • DevOps pragmático
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 
 ## Sobre mim
 
-- 🏛️ **Atualmente:** Gestor de equipe no DTI da **Prefeitura de Três Lagoas-MS**  
+- 🏛️ **Hoje:** gestor de equipe no DTI da **Prefeitura de Três Lagoas-MS**  
 - 🧩 **Stack de trabalho:** React, TypeScript, NestJS, PostgreSQL, Docker, Nginx  
-- 🌱 **Estudando agora:** **Java** e arquitetura limpa para backends escaláveis  
-- 💬 **Já atuei com:** C, Java, HTML5, CSS3, React, PHP, MySQL  
+- 🌱 **Estudando agora:** arquitetura limpa, observabilidade e automação CI/CD  
+- 💬 **Experiência com:** C, HTML5, CSS3, React, PHP, MySQL  
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Unicesumar)  
-- 🎯 **Interesses:** UX pragmático, multi-tenant SaaS, observabilidade e automação
+- 🎯 **Interesses:** SaaS multi-tenant, UX acessível, performance e segurança
 
 ---
 
@@ -38,91 +38,67 @@
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <!-- NestJS com fallback -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" type="image/svg+xml" />
+    <img alt="NestJS" height="40" src="https://cdn.simpleicons.org/nestjs/E0234E" />
+  </picture>
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Nginx" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
 ---
 
-## Destaques rápidos
+## Destaques
 
-- 🧭 **Liderança técnica:** coordenação de squad (5 devs), cadência de releases e code reviews
-- 🧱 **Arquitetura:** monorepo, padrões de camadas, DTOs e contratos estáveis entre serviços
-- 📦 **DevOps:** CI/CD com containers, reverse proxy com Nginx, métricas e logs organizados
-- 🧪 **Qualidade:** testes de integração/end-to-end e automação de validações
-- 🧑‍💻 **Produto público:** foco em UX acessível e performance em aplicações para servidor público
+- 🧭 **Liderança técnica:** squad de 5 devs, rituais, PR reviews e releases contínuas  
+- 🧱 **Arquitetura:** monorepo, DTOs, contratos estáveis e camadas bem definidas  
+- 📦 **DevOps:** CI/CD container-first, reverse proxy, logs e métricas organizados  
+- 🧪 **Qualidade:** testes de integração/E2E e automação de validações  
+- 👨‍💻 **Setor público:** UX acessível, performance e confiabilidade para servidores
 
 ---
 
 ## Projetos em foco
-> (Alguns repositórios são privados por política institucional. Aqui vão tópicos do que venho construindo.)
+> (Alguns repositórios são privados por política institucional.)
 
-- **Sistema RH/SESMT (React + NestJS + PostgreSQL)**: requerimentos, atestados, painéis táticos, geração de PDFs, multi-papéis e fluxos de aprovação.  
-- **Gerenciador de Loteamentos (Electron + SVG)**: mapa interativo offline, status por lote, busca e anotações.  
-- **SaaS Restaurante (conceito multi-tenant)**: QR por mesa, pedidos em tempo real, emissão fiscal e cozinha integrada.
+- **RH/SESMT (React + NestJS + PostgreSQL)** — requerimentos, atestados, painéis, PDFs e fluxos por papéis.  
+- **Gerenciador de Loteamentos (Electron + SVG)** — mapa offline interativo, status por lote e anotações.  
+- **SaaS Restaurante (multi-tenant)** — QR por mesa, pedidos em tempo real, emissão fiscal e cozinha integrada.
 
 ---
 
-## Métricas & Estatísticas
+## Métricas
 
 <div align="center">
   <a href="https://github.com/RMTerayama">
-    <!-- Stats (tema claro/escuro) -->
     <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark"
-        media="(prefers-color-scheme: dark)" />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
-        media="(prefers-color-scheme: light)" />
-      <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&count_private=true&include_all_commits=true" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RMTerayama&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
     </picture>
     <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=8&theme=github_dark"
-        media="(prefers-color-scheme: dark)" />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=8&theme=default" 
-        media="(prefers-color-scheme: light)" />
-      <img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=8" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=8&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMTerayama&layout=compact&langs_count=8&hide_border=true" />
     </picture>
   </a>
 </div>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" height="170" src="https://streak-stats.demolab.com?user=RMTerayama&theme=github-dark-blue&hide_border=true" />
+    <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=RMTerayama&hide_border=true&theme=github-dark-blue" />
   </a>
 </p>
-
-<!-- Opcional: troféus (comente se não quiser) -->
-<!--
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=RMTerayama&theme=onestar&column=6&margin-w=10&margin-h=10" />
-</p>
--->
-
----
-
-## O que estou construindo agora
-
-- 🔧 Refinando arquitetura **NestJS** com autenticação e autorização por papéis  
-- 🧰 Automatizando geração de **PDFs institucionais** e relatórios  
-- 📊 Painéis com **metadados de auditoria** e monitoramento de eventos
 
 ---
 
 ## Como posso ajudar sua equipe
 
-- 🚀 Tirar projeto do papel com entregas curtas e cadência previsível  
-- 🧭 Definir arquitetura e guiar padrões de código em squads pequenas  
+- 🚀 Tirar projeto do papel com entregas curtas e previsíveis  
+- 🧭 Definir arquitetura e guiar padrões em squads enxutas  
 - ⚙️ Subir infra conteinerizada, observável e com deploy simples  
 - 🧑‍🏫 Mentorar devs júnior/pleno com foco em boas práticas
 
@@ -140,10 +116,8 @@
   </a>
 </p>
 
----
-
 <details>
   <summary>Curiosidades</summary>
   <br/>
-  🎮 Gosto de gaming (Valorant) • 🎸 Estudo guitarra/violão • 🇯🇵 Estudei no Japão na infância
+  🎮 Gaming (Valorant) • 🎸 Guitarra/violão • 🇯🇵 Estudei no Japão na infância
 </details>
