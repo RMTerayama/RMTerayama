@@ -98,8 +98,6 @@
 - 🚀 Tirar projeto do papel com entregas curtas e previsíveis  
 - 🧭 Definir arquitetura e guiar padrões em squads enxutas  
 - ⚙️ Subir infra conteinerizada, observável e com deploy simples  
-- 🧑‍🏫 Mentorar devs júnior/pleno com foco em boas práticas
-
 ---
 
 ## Contato
