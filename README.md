@@ -24,9 +24,9 @@
 - 🏛️ **Hoje:** desenvolvimento full-stack no DTI da **Prefeitura de Três Lagoas-MS**  
 - 🧩 **Stack de trabalho:** React, TypeScript, NestJS, PostgreSQL, Docker, Nginx  
 - 🌱 **Estudando agora:** arquitetura limpa, observabilidade, automação de CI/CD  
-- 💬 **Experiência com:** C, HTML5, CSS3, React, PHP, MySQL  
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Unicesumar)  
-- 🎯 **Interesses:** SaaS multi-tenant, UX acessível, segurança e performance
+- 💬 **Experiência com:** C, HTML5, CSS3, React, PHP, MySQL,  TypeScript, NestJS, PostgreSQL, Docker, Nginx  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
+- 🎯 **Interesses:** UX acessível, segurança e performance
 
 ---
 
@@ -51,21 +51,12 @@
 
 ## Destaques
 
-- 🔗 **Do zero ao deploy:** API REST/GraphQL, autenticação por papéis, geração de PDFs e integrações
+- 🔗 **Do zero ao deploy:** API REST/GraphQL, autenticação por papéis e integrações
 - 🧱 **Arquitetura sólida:** camadas bem definidas, DTOs/contratos estáveis, monorepo quando convém
 - 🛡️ **Segurança:** hardening básico, rate-limit, headers, revisão de permissões e auditoria de eventos
 - 📈 **Observabilidade:** logs estruturados, métricas e traços para troubleshooting rápido
 - 🧪 **Qualidade:** testes de integração/E2E e automação de validações em pipelines
 - 🧑‍💻 **Setor público:** UX acessível, performance e confiabilidade para alto volume de atendimentos
-
----
-
-## Projetos em foco
-> (Alguns repositórios são privados por política institucional.)
-
-- **RH/SESMT (React + NestJS + PostgreSQL)** — requerimentos, atestados, painéis, PDFs e fluxos por papéis.  
-- **Gerenciador de Loteamentos (Electron + SVG)** — mapa offline interativo, status por lote e anotações.  
-- **SaaS Restaurante (multi-tenant)** — QR por mesa, pedidos em tempo real, emissão fiscal e cozinha integrada.
 
 ---
 
