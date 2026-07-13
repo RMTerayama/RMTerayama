@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Richard Masayuki 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full-Stack focado em sistemas web, APIs robustas e deploys confiáveis.
+  Desenvolvedor Full-Stack focado em sistemas web, APIs e deploys 
 </p>
 
 <p align="center">
